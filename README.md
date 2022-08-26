@@ -4,6 +4,7 @@ Blog: <a href="https://www.freecodecamp.org/news/how-to-build-react-based-code-e
 ## Installations and setup
 
 - git clone `https://github.com/manuarora700/react-code-editor.git`
+- install node.js <a href ="https://nodejs.org/en/download/">Download</a>
 - `npm install` to install dependecies.
 - `npm start` to run the project.
 
